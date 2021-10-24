@@ -1,4 +1,4 @@
-package com.codigoton.dinner.dinner;
+package com.codigoton.dinner;
 
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

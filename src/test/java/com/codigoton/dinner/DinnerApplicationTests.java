@@ -1,4 +1,4 @@
-package com.codigoton.dinner.dinner;
+package com.codigoton.dinner;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
